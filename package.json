@@ -23,8 +23,8 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.1.1",
-    "@tsconfig/docusaurus": "2.0.2",
-    "typescript": "5.4.2"
+    "@tsconfig/docusaurus": "2.0.3",
+    "typescript": "5.4.3"
   },
   "name": "gemunion.github.io",
   "private": true,
